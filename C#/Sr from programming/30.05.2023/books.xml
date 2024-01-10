@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<books>
+	<book>
+		<id>1</id>
+		<autor>Messi L</autor>
+		<name>name1</name>
+	</book>
+	<book>
+		<id>2</id>
+		<autor>Ronaldo C</autor>
+		<name>name2</name>
+	</book>
+	<book>
+		<id>3</id>
+		<autor>Messi L</autor>
+		<name>name3</name>
+	</book>
+</books>

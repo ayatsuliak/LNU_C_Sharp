@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<publishers>
+	<publisher>
+		<id>num1</id>
+		<name>publisherName1</name>
+	</publisher>
+	<publisher>
+		<id>num2</id>
+		<name>publisherName2</name>
+	</publisher>
+</publishers>

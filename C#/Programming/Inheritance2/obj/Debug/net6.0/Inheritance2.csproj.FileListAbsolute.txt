@@ -1,0 +1,15 @@
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.csproj.AssemblyReference.cache
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.AssemblyInfoInputs.cache
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.AssemblyInfo.cs
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.csproj.CoreCompileInputs.cache
+D:\C#\Programming\Inheritance2\bin\Debug\net6.0\Inheritance2.exe
+D:\C#\Programming\Inheritance2\bin\Debug\net6.0\Inheritance2.deps.json
+D:\C#\Programming\Inheritance2\bin\Debug\net6.0\Inheritance2.runtimeconfig.json
+D:\C#\Programming\Inheritance2\bin\Debug\net6.0\Inheritance2.dll
+D:\C#\Programming\Inheritance2\bin\Debug\net6.0\Inheritance2.pdb
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.dll
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\refint\Inheritance2.dll
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.pdb
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\Inheritance2.genruntimeconfig.cache
+D:\C#\Programming\Inheritance2\obj\Debug\net6.0\ref\Inheritance2.dll

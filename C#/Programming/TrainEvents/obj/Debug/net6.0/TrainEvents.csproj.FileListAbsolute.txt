@@ -1,0 +1,15 @@
+D:\C#\Programming\TrainEvents\bin\Debug\net6.0\TrainEvents.exe
+D:\C#\Programming\TrainEvents\bin\Debug\net6.0\TrainEvents.deps.json
+D:\C#\Programming\TrainEvents\bin\Debug\net6.0\TrainEvents.runtimeconfig.json
+D:\C#\Programming\TrainEvents\bin\Debug\net6.0\TrainEvents.dll
+D:\C#\Programming\TrainEvents\bin\Debug\net6.0\TrainEvents.pdb
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.csproj.AssemblyReference.cache
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.AssemblyInfoInputs.cache
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.AssemblyInfo.cs
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.csproj.CoreCompileInputs.cache
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.dll
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\refint\TrainEvents.dll
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.pdb
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\TrainEvents.genruntimeconfig.cache
+D:\C#\Programming\TrainEvents\obj\Debug\net6.0\ref\TrainEvents.dll

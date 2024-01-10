@@ -1,0 +1,15 @@
+D:\Стартовий С#\ConsoleApp1\Triangle\bin\Debug\net6.0\Triangle.exe
+D:\Стартовий С#\ConsoleApp1\Triangle\bin\Debug\net6.0\Triangle.deps.json
+D:\Стартовий С#\ConsoleApp1\Triangle\bin\Debug\net6.0\Triangle.runtimeconfig.json
+D:\Стартовий С#\ConsoleApp1\Triangle\bin\Debug\net6.0\Triangle.dll
+D:\Стартовий С#\ConsoleApp1\Triangle\bin\Debug\net6.0\Triangle.pdb
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.csproj.AssemblyReference.cache
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfoInputs.cache
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.AssemblyInfo.cs
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.csproj.CoreCompileInputs.cache
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.dll
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\refint\Triangle.dll
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.pdb
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\Triangle.genruntimeconfig.cache
+D:\Стартовий С#\ConsoleApp1\Triangle\obj\Debug\net6.0\ref\Triangle.dll

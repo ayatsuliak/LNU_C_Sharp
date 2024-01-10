@@ -1,0 +1,15 @@
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.csproj.AssemblyReference.cache
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.AssemblyInfoInputs.cache
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.AssemblyInfo.cs
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.csproj.CoreCompileInputs.cache
+D:\C#\Sr from programming\Sr from programming\bin\Debug\net6.0\Sr from programming.exe
+D:\C#\Sr from programming\Sr from programming\bin\Debug\net6.0\Sr from programming.deps.json
+D:\C#\Sr from programming\Sr from programming\bin\Debug\net6.0\Sr from programming.runtimeconfig.json
+D:\C#\Sr from programming\Sr from programming\bin\Debug\net6.0\Sr from programming.dll
+D:\C#\Sr from programming\Sr from programming\bin\Debug\net6.0\Sr from programming.pdb
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.dll
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\refint\Sr from programming.dll
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.pdb
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\Sr from programming.genruntimeconfig.cache
+D:\C#\Sr from programming\Sr from programming\obj\Debug\net6.0\ref\Sr from programming.dll

@@ -1,0 +1,20 @@
+﻿<illuminations>
+	<illumination>
+		<id>1</id>
+		<Lastname>Messi</Lastname>
+		<category>B</category>
+		<date>2024.04.11</date>
+	</illumination>
+	<illumination>
+		<id>2</id>
+		<Lastname>Ronaldo</Lastname>
+		<category>C</category>
+		<date>2023.11.11</date>
+	</illumination>
+	<illumination>
+		<id>3</id>
+		<Lastname>Benzema</Lastname>
+		<category>B</category>
+		<date>2024.11.05</date>
+	</illumination>
+</illuminations>

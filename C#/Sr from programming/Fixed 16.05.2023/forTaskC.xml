@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<taskC>
+  <group name="PMI21">
+    <student name="Benzema K">
+      <discipline name="Programming">
+        <score>60</score>
+      </discipline>
+      <discipline name="TA">
+        <score>68</score>
+      </discipline>
+    </student>
+    <student name="Lionel M">
+      <discipline name="Programming">
+        <score>88</score>
+      </discipline>
+    </student>
+  </group>
+  <group name="PMI22">
+    <student name="Ronaldo C">
+      <discipline name="TA">
+        <score>66</score>
+      </discipline>
+    </student>
+  </group>
+</taskC>

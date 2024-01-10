@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<infos>
+	<info>
+		<book_id>1</book_id>
+		<genre_id>2</genre_id>
+		<publisher_id>num1</publisher_id>
+		<date>2023.05.28</date>
+	</info>
+	<info>
+		<book_id>2</book_id>
+		<genre_id>2</genre_id>
+		<publisher_id>num1</publisher_id>
+		<date>2023.05.11</date>
+	</info>
+	<info>
+		<book_id>3</book_id>
+		<genre_id>3</genre_id>
+		<publisher_id>num2</publisher_id>
+		<date>2023.04.18</date>
+	</info>
+	<info>
+		<book_id>4</book_id>
+		<genre_id>2</genre_id>
+		<publisher_id>num1</publisher_id>
+		<date>2023.03.18</date>
+	</info>
+</infos>

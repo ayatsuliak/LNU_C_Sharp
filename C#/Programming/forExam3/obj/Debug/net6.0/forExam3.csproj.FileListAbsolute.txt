@@ -1,0 +1,15 @@
+D:\C#\Programming\forExam3\bin\Debug\net6.0\forExam3.exe
+D:\C#\Programming\forExam3\bin\Debug\net6.0\forExam3.deps.json
+D:\C#\Programming\forExam3\bin\Debug\net6.0\forExam3.runtimeconfig.json
+D:\C#\Programming\forExam3\bin\Debug\net6.0\forExam3.dll
+D:\C#\Programming\forExam3\bin\Debug\net6.0\forExam3.pdb
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.csproj.AssemblyReference.cache
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.AssemblyInfoInputs.cache
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.AssemblyInfo.cs
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.csproj.CoreCompileInputs.cache
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.dll
+D:\C#\Programming\forExam3\obj\Debug\net6.0\refint\forExam3.dll
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.pdb
+D:\C#\Programming\forExam3\obj\Debug\net6.0\forExam3.genruntimeconfig.cache
+D:\C#\Programming\forExam3\obj\Debug\net6.0\ref\forExam3.dll

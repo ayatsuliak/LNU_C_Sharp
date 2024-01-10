@@ -1,0 +1,10 @@
+﻿<servers>
+	<server>
+		<id>1</id>
+		<platform_id>1</platform_id>
+	</server>
+	<server>
+		<id>2</id>
+		<platform_id>2</platform_id>
+	</server>
+</servers>

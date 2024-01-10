@@ -1,0 +1,10 @@
+﻿<platforms>
+	<platform>
+		<id>1</id>
+		<name>platform1</name>
+	</platform>
+	<platform>
+		<id>2</id>
+		<name>platform2</name>
+	</platform>
+</platforms>

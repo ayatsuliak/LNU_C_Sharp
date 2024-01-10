@@ -1,0 +1,20 @@
+﻿<infos>
+	<info>
+		<is_id>1</is_id>
+		<name>name1</name>
+		<category_id>2</category_id>
+		<agensy_id>num1</agensy_id>
+	</info>
+	<info>
+		<is_id>2</is_id>
+		<name>name2</name>
+		<category_id>2</category_id>
+		<agensy_id>num2</agensy_id>
+	</info>
+	<info>
+		<is_id>3</is_id>
+		<name>name3</name>
+		<category_id>1</category_id>
+		<agensy_id>num1</agensy_id>
+	</info>
+</infos>

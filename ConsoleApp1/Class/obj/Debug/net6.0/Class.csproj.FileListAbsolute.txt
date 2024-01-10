@@ -1,0 +1,15 @@
+D:\Стартовий С#\ConsoleApp1\Class\bin\Debug\net6.0\Class.exe
+D:\Стартовий С#\ConsoleApp1\Class\bin\Debug\net6.0\Class.deps.json
+D:\Стартовий С#\ConsoleApp1\Class\bin\Debug\net6.0\Class.runtimeconfig.json
+D:\Стартовий С#\ConsoleApp1\Class\bin\Debug\net6.0\Class.dll
+D:\Стартовий С#\ConsoleApp1\Class\bin\Debug\net6.0\Class.pdb
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.csproj.AssemblyReference.cache
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.AssemblyInfoInputs.cache
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.AssemblyInfo.cs
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.csproj.CoreCompileInputs.cache
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.dll
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\refint\Class.dll
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.pdb
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\Class.genruntimeconfig.cache
+D:\Стартовий С#\ConsoleApp1\Class\obj\Debug\net6.0\ref\Class.dll

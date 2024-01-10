@@ -1,0 +1,15 @@
+D:\C#\Sr 04.04.2023\FIxedSr\bin\Debug\net6.0\FIxedSr.exe
+D:\C#\Sr 04.04.2023\FIxedSr\bin\Debug\net6.0\FIxedSr.deps.json
+D:\C#\Sr 04.04.2023\FIxedSr\bin\Debug\net6.0\FIxedSr.runtimeconfig.json
+D:\C#\Sr 04.04.2023\FIxedSr\bin\Debug\net6.0\FIxedSr.dll
+D:\C#\Sr 04.04.2023\FIxedSr\bin\Debug\net6.0\FIxedSr.pdb
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.csproj.AssemblyReference.cache
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.AssemblyInfoInputs.cache
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.AssemblyInfo.cs
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.csproj.CoreCompileInputs.cache
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.dll
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\refint\FIxedSr.dll
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.pdb
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\FIxedSr.genruntimeconfig.cache
+D:\C#\Sr 04.04.2023\FIxedSr\obj\Debug\net6.0\ref\FIxedSr.dll

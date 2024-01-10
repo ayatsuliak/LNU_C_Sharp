@@ -1,0 +1,15 @@
+D:\C#\Programming\Observer\bin\Debug\net6.0\Observer.exe
+D:\C#\Programming\Observer\bin\Debug\net6.0\Observer.deps.json
+D:\C#\Programming\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+D:\C#\Programming\Observer\bin\Debug\net6.0\Observer.dll
+D:\C#\Programming\Observer\bin\Debug\net6.0\Observer.pdb
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.csproj.AssemblyReference.cache
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.dll
+D:\C#\Programming\Observer\obj\Debug\net6.0\refint\Observer.dll
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.pdb
+D:\C#\Programming\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache
+D:\C#\Programming\Observer\obj\Debug\net6.0\ref\Observer.dll

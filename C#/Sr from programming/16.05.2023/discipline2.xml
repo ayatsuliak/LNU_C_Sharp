@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<discipline>
+	<name>TA</name>
+	<teacher_id>1</teacher_id>
+	<result>
+		<student_id>2</student_id>
+		<score>66</score>
+	</result>
+	<result>
+		<student_id>3</student_id>
+		<score>68</score>
+	</result>
+</discipline>

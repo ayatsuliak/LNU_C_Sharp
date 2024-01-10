@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<discipline>
+	<name>Programming</name>
+	<teacher_id>2</teacher_id>
+	<result>
+		<student_id>1</student_id>
+		<score>88</score>
+	</result>
+	<result>
+		<student_id>3</student_id>
+		<score>60</score>
+	</result>
+	<result>
+		<student_id>2</student_id>
+		<score>45</score>
+	</result>
+</discipline>

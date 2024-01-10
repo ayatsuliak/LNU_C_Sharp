@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<genres>
+	<genre>
+		<id>1</id>
+		<name>genre1</name>
+	</genre>
+	<genre>
+		<id>2</id>
+		<name>genre2</name>
+	</genre>
+	<genre>
+		<id>3</id>
+		<name>genre3</name>
+	</genre>
+</genres>

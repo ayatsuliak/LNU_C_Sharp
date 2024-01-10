@@ -1,0 +1,15 @@
+D:\C#\Programming\forExamFirst\bin\Debug\net6.0\forExamFirst.exe
+D:\C#\Programming\forExamFirst\bin\Debug\net6.0\forExamFirst.deps.json
+D:\C#\Programming\forExamFirst\bin\Debug\net6.0\forExamFirst.runtimeconfig.json
+D:\C#\Programming\forExamFirst\bin\Debug\net6.0\forExamFirst.dll
+D:\C#\Programming\forExamFirst\bin\Debug\net6.0\forExamFirst.pdb
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.csproj.AssemblyReference.cache
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.AssemblyInfoInputs.cache
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.AssemblyInfo.cs
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.csproj.CoreCompileInputs.cache
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.dll
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\refint\forExamFirst.dll
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.pdb
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\forExamFirst.genruntimeconfig.cache
+D:\C#\Programming\forExamFirst\obj\Debug\net6.0\ref\forExamFirst.dll

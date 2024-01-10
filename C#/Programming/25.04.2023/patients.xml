@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patients>
+  <Patient>
+    <Id>1</Id>
+    <Name>John</Name>
+    <Surname>Doe</Surname>
+    <Year>1997</Year>
+  </Patient>
+  <Patient>
+    <Id>2</Id>
+    <Name>Karim</Name>
+	  <Surname>Benzema</Surname>
+    <Year>1985</Year>
+  </Patient>
+  <Patient>
+    <Id>3</Id>
+    <Name>Lionel</Name>
+	  <Surname>Messi</Surname>
+    <Year>1987</Year>
+  </Patient>
+</Patients>

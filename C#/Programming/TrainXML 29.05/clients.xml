@@ -1,0 +1,23 @@
+﻿<clients>
+	<client>
+		<id>1</id>
+		<surname>Messi</surname>
+		<name>Lionel</name>
+		<birthday>1978.05.11</birthday>
+		<count>5</count>
+	</client>
+	<client>
+		<id>2</id>
+		<surname>Cristiano</surname>
+		<name>Ronaldo</name>
+		<birthday>1968.05.19</birthday>
+		<count>4</count>
+	</client>
+	<client>
+		<id>3</id>
+		<surname>Bale</surname>
+		<name>Garet</name>
+		<birthday>1988.11.29</birthday>
+		<count>2</count>
+	</client>
+</clients>

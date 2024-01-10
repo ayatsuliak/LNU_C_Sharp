@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Category>
+    <Name>Technology</Name>
+    <Operations>
+      <Operation>Clean PC: 195</Operation>
+    </Operations>
+  </Category>
+  <Category>
+    <Name>Toys</Name>
+    <Operations>
+      <Operation>Fix toy: 66</Operation>
+    </Operations>
+  </Category>
+</TaskB>

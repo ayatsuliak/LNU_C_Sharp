@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Services>
+  <Service>
+    <Date>2023.04.17</Date>
+    <PatientId>1</PatientId>
+    <ProcedureId>2</ProcedureId>
+  </Service>
+  <Service>
+    <Date>2023.04.17</Date>
+    <PatientId>2</PatientId>
+    <ProcedureId>2</ProcedureId>
+  </Service>
+  <Service>
+    <Date>2023.04.18</Date>
+    <PatientId>3</PatientId>
+    <ProcedureId>1</ProcedureId>
+  </Service>
+</Services>

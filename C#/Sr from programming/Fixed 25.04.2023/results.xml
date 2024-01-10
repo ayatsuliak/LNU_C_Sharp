@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results>
+	<Result>
+		<TaskNumber>2</TaskNumber>
+		<StudId>1</StudId>
+		<Points>95</Points>
+		<SubmissionDate>2023.04.29</SubmissionDate>
+	</Result>
+	<Result>
+		<TaskNumber>4</TaskNumber>
+		<StudId>1</StudId>
+		<Points>50</Points>
+		<SubmissionDate>2023.04.29</SubmissionDate>
+	</Result>
+	<Result>
+		<TaskNumber>3</TaskNumber>
+		<StudId>1</StudId>
+		<Points>90</Points>
+		<SubmissionDate>2023.04.29</SubmissionDate>
+	</Result>
+	<Result>
+		<TaskNumber>1</TaskNumber>
+		<StudId>3</StudId>
+		<Points>66</Points>
+		<SubmissionDate>2023.04.29</SubmissionDate>
+	</Result>
+	<Result>
+		<TaskNumber>3</TaskNumber>
+		<StudId>2</StudId>
+		<Points>100</Points>
+		<SubmissionDate>2023.04.28</SubmissionDate>
+	</Result>
+</Results>

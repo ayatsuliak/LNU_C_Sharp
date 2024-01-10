@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <Dates>
+    <Date>2023-04-17T00:00:00</Date>
+    <Patient>
+      <Surname>Benzema</Surname>
+      <Procedure>Procedure2: 100</Procedure>
+    </Patient>
+    <Patient>
+      <Surname>Doe</Surname>
+      <Procedure>Procedure2: 100</Procedure>
+    </Patient>
+  </Dates>
+  <Dates>
+    <Date>2023-04-18T00:00:00</Date>
+    <Patient>
+      <Surname>Messi</Surname>
+      <Procedure>Procedure1: 150</Procedure>
+    </Patient>
+  </Dates>
+</TaskA>

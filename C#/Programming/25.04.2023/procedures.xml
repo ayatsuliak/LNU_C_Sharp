@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Service>
+  <Procedure>
+    <Id>1</Id>
+    <ProcedureName>Procedure1</ProcedureName>
+    <Price>150</Price>
+  </Procedure>
+  <Procedure>
+    <Id>2</Id>
+	  <ProcedureName>Procedure2</ProcedureName>
+    <Price>100</Price>
+  </Procedure>
+  <Procedure>
+    <Id>3</Id>
+	  <ProcedureName>Procedure3</ProcedureName>
+    <Price>250</Price>
+  </Procedure>
+</Service>

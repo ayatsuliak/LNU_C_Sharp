@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<violators>
+	<violator>
+		<date>2023-05-09</date>
+		<time>14:30</time>
+		<car_number>ABC123</car_number>
+		<category>car</category>
+		<speed>90</speed>
+	</violator>
+	<violator>
+		<date>2023-05-09</date>
+		<time>15:15</time>
+		<car_number>DEF456</car_number>
+		<category>bus</category>
+		<speed>40</speed>
+	</violator>
+	<violator>
+		<date>2023-05-09</date>
+		<time>16:00</time>
+		<car_number>GHI789</car_number>
+		<category>truck</category>
+		<speed>110</speed>
+	</violator>
+</violators>

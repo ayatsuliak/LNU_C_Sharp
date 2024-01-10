@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Categories>
+	<Category>
+		<CategoryId>2</CategoryId>
+		<Name>Technology</Name>
+		<NumOfMon>3</NumOfMon>
+	</Category>
+	<Category>
+		<CategoryId>1</CategoryId>
+		<Name>Product</Name>
+		<NumOfMon>7</NumOfMon>
+	</Category>
+	<Category>
+		<CategoryId>3</CategoryId>
+		<Name>Toys</Name>
+		<NumOfMon>2</NumOfMon>
+	</Category>
+</Categories>

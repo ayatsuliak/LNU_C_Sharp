@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <Student>
+    <StuId>1</StuId>
+    <Name>Lionel Messi</Name>
+    <Group>AMI21</Group>
+  </Student>
+  <Student>
+    <StuId>2</StuId>
+    <Name>Karim Benzema</Name>
+    <Group>AMI21</Group>
+  </Student>
+  <Student>
+    <StuId>3</StuId>
+    <Name>Garet Bale</Name>
+    <Group>AMI22</Group>
+  </Student>
+</Students>

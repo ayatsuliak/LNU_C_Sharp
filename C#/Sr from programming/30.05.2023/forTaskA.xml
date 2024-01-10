@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <autor name="Messi L">
+    <book name="name1">
+      <publisher>publisherName1</publisher>
+    </book>
+    <book name="name3">
+      <publisher>publisherName2</publisher>
+    </book>
+  </autor>
+  <autor name="Ronaldo C">
+    <book name="name2">
+      <publisher>publisherName1</publisher>
+    </book>
+  </autor>
+</TaskA>

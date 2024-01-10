@@ -1,0 +1,15 @@
+D:\C#\Programming\Programming\bin\Debug\net6.0\Programming.exe
+D:\C#\Programming\Programming\bin\Debug\net6.0\Programming.deps.json
+D:\C#\Programming\Programming\bin\Debug\net6.0\Programming.runtimeconfig.json
+D:\C#\Programming\Programming\bin\Debug\net6.0\Programming.dll
+D:\C#\Programming\Programming\bin\Debug\net6.0\Programming.pdb
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.csproj.AssemblyReference.cache
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.AssemblyInfoInputs.cache
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.AssemblyInfo.cs
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.csproj.CoreCompileInputs.cache
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.dll
+D:\C#\Programming\Programming\obj\Debug\net6.0\refint\Programming.dll
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.pdb
+D:\C#\Programming\Programming\obj\Debug\net6.0\Programming.genruntimeconfig.cache
+D:\C#\Programming\Programming\obj\Debug\net6.0\ref\Programming.dll

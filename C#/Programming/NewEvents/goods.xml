@@ -1,0 +1,17 @@
+﻿<goods>
+	<good>
+		<name>PC</name>
+		<count>10</count>
+		<price>20000</price>
+	</good>
+	<good>
+		<name>Toy</name>
+		<count>1</count>
+		<price>15</price>
+	</good>
+	<good>
+		<name>Food</name>
+		<count>100</count>
+		<price>148</price>
+	</good>
+</goods>

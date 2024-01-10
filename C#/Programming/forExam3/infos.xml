@@ -1,0 +1,32 @@
+﻿<infos>
+	<info>
+		<test_id>1</test_id>
+		<date>2023.06.12T09:00</date>
+		<server_id>2</server_id>
+		<result>true</result>
+	</info>
+	<info>
+		<test_id>2</test_id>
+		<date>2023.06.12T09:00</date>
+		<server_id>1</server_id>
+		<result>false</result>
+	</info>
+	<info>
+		<test_id>3</test_id>
+		<date>2023.06.12T09:00</date>
+		<server_id>2</server_id>
+		<result>true</result>
+	</info>
+	<info>
+		<test_id>4</test_id>
+		<date>2023.06.12T09:00</date>
+		<server_id>2</server_id>
+		<result>false</result>
+	</info>
+	<info>
+		<test_id>5</test_id>
+		<date>2023.06.12T09:00</date>
+		<server_id>2</server_id>
+		<result>true</result>
+	</info>
+</infos>

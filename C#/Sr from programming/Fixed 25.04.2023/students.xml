@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+	<Student>
+		<StuId>1</StuId>
+		<Name>Lionel</Name>
+		<Surname>Messi</Surname>
+		<Group>AMI21</Group>
+	</Student>
+	<Student>
+		<StuId>2</StuId>
+		<Name>Karim</Name>
+		<Surname>Benzema</Surname>
+		<Group>AMI21</Group>
+	</Student>
+	<Student>
+		<StuId>3</StuId>
+		<Name>Garet</Name>
+		<Surname>Bale</Surname>
+		<Group>AMI22</Group>
+	</Student>
+</Students>

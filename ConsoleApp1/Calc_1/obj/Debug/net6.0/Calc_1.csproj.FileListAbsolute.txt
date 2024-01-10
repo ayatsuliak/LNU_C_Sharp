@@ -1,0 +1,15 @@
+D:\Стартовий С#\ConsoleApp1\Calc_1\bin\Debug\net6.0\Calc_1.exe
+D:\Стартовий С#\ConsoleApp1\Calc_1\bin\Debug\net6.0\Calc_1.deps.json
+D:\Стартовий С#\ConsoleApp1\Calc_1\bin\Debug\net6.0\Calc_1.runtimeconfig.json
+D:\Стартовий С#\ConsoleApp1\Calc_1\bin\Debug\net6.0\Calc_1.dll
+D:\Стартовий С#\ConsoleApp1\Calc_1\bin\Debug\net6.0\Calc_1.pdb
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.csproj.AssemblyReference.cache
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.AssemblyInfoInputs.cache
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.AssemblyInfo.cs
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.csproj.CoreCompileInputs.cache
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.dll
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\refint\Calc_1.dll
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.pdb
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\Calc_1.genruntimeconfig.cache
+D:\Стартовий С#\ConsoleApp1\Calc_1\obj\Debug\net6.0\ref\Calc_1.dll

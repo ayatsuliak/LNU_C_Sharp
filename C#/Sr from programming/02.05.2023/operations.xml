@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations>
+	<Operation>
+		<OperationId>2</OperationId>
+		<OperationName>Clean PC</OperationName>
+		<Price>195</Price>
+	</Operation>
+	<Operation>
+		<OperationId>1</OperationId>
+		<OperationName>Fix toy</OperationName>
+		<Price>66</Price>
+	</Operation>
+</Operations>

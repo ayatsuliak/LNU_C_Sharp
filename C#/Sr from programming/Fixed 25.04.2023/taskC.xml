@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results>
+  <Group Name="AMI21">
+    <Student>
+      <Surname>Benzema K</Surname>
+      <Points>100</Points>
+    </Student>
+    <Student>
+      <Surname>Messi L</Surname>
+      <Points>235</Points>
+    </Student>
+  </Group>
+  <Group Name="AMI22">
+    <Student>
+      <Surname>Bale G</Surname>
+      <Points>66</Points>
+    </Student>
+  </Group>
+</Results>

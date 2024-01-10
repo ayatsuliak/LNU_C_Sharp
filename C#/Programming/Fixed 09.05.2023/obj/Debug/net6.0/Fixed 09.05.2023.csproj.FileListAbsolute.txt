@@ -1,0 +1,15 @@
+D:\C#\Programming\Fixed 09.05.2023\bin\Debug\net6.0\Fixed 09.05.2023.exe
+D:\C#\Programming\Fixed 09.05.2023\bin\Debug\net6.0\Fixed 09.05.2023.deps.json
+D:\C#\Programming\Fixed 09.05.2023\bin\Debug\net6.0\Fixed 09.05.2023.runtimeconfig.json
+D:\C#\Programming\Fixed 09.05.2023\bin\Debug\net6.0\Fixed 09.05.2023.dll
+D:\C#\Programming\Fixed 09.05.2023\bin\Debug\net6.0\Fixed 09.05.2023.pdb
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.csproj.AssemblyReference.cache
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.AssemblyInfoInputs.cache
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.AssemblyInfo.cs
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.csproj.CoreCompileInputs.cache
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.dll
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\refint\Fixed 09.05.2023.dll
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.pdb
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\Fixed 09.05.2023.genruntimeconfig.cache
+D:\C#\Programming\Fixed 09.05.2023\obj\Debug\net6.0\ref\Fixed 09.05.2023.dll

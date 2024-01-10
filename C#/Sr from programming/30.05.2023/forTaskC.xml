@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <publisher name="publisherName1">
+    <autor>Messi L</autor>
+    <autor>Ronaldo C</autor>
+  </publisher>
+  <publisher name="publisherName2">
+    <autor>Messi L</autor>
+  </publisher>
+</TaskC>

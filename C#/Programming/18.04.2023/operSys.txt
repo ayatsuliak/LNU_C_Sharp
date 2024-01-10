@@ -1,0 +1,4 @@
+﻿1,Windows,1000
+2,MacOS,850
+3,Linux,700
+0,None,0

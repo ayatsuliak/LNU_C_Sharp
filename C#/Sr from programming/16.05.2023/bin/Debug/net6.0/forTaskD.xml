@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ranking>
+  <group>
+    <name>PMI21</name>
+    <total_score>0</total_score>
+    <student>
+      <name>Benzema K</name>
+    </student>
+    <student>
+      <name>Lionel M</name>
+    </student>
+  </group>
+  <group>
+    <name>PMI22</name>
+    <total_score>0</total_score>
+    <student>
+      <name>Ronaldo C</name>
+    </student>
+  </group>
+</ranking>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <project project="num1">
+    <hours>36</hours>
+  </project>
+  <project project="num2">
+    <hours>10</hours>
+  </project>
+</TaskC>

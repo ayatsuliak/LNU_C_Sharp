@@ -1,0 +1,14 @@
+﻿<coaches>
+	<coach>
+		<id>1</id>
+		<surname>Zinadine</surname>
+		<name>Zidane</name>
+		<specializetion>running</specializetion>
+	</coach>
+	<coach>
+		<id>2</id>
+		<surname>Klopp</surname>
+		<name>Jurgen</name>
+		<specializetion>bodytrain</specializetion>
+	</coach>
+</coaches>

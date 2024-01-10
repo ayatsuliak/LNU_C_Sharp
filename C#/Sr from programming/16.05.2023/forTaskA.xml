@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<results>
+  <result>
+    <discipline>Programming</discipline>
+    <teacher>Roben P</teacher>
+    <students>
+      <student>
+        <name>Benzema Karim</name>
+        <score>60</score>
+      </student>
+      <student>
+        <name>Lionel Messi</name>
+        <score>88</score>
+      </student>
+      <student>
+        <name>Ronaldo Cristiano</name>
+        <score>45</score>
+      </student>
+    </students>
+  </result>
+  <result>
+    <discipline>TA</discipline>
+    <teacher>Gullid P</teacher>
+    <students>
+      <student>
+        <name>Benzema Karim</name>
+        <score>68</score>
+      </student>
+      <student>
+        <name>Ronaldo Cristiano</name>
+        <score>66</score>
+      </student>
+    </students>
+  </result>
+</results>

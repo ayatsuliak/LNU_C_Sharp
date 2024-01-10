@@ -1,0 +1,12 @@
+﻿<teories>
+	<teory>
+		<id>1</id>
+		<name>que1</name>
+		<point>60</point>
+	</teory>
+	<teory>
+		<id>2</id>
+		<name>que2</name>
+		<point>40</point>
+	</teory>
+</teories>

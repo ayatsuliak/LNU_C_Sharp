@@ -1,0 +1,32 @@
+﻿<tests>
+	<test>
+		<id>1</id>
+		<user>messi10</user>
+		<lanq>C#</lanq>
+		<size>3400</size>
+	</test>
+	<test>
+		<id>2</id>
+		<user>benzema9</user>
+		<lanq>C++</lanq>
+		<size>5800</size>
+	</test>
+	<test>
+		<id>3</id>
+		<user>ronaldo7</user>
+		<lanq>Python</lanq>
+		<size>1000</size>
+	</test>
+	<test>
+		<id>4</id>
+		<user>messi10</user>
+		<lanq>C#</lanq>
+		<size>1400</size>
+	</test>
+	<test>
+		<id>5</id>
+		<user>messi10</user>
+		<lanq>C#</lanq>
+		<size>2800</size>
+	</test>
+</tests>

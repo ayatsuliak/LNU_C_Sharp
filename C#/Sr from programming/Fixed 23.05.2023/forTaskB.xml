@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<forTaskB>
+  <project name="Project1">
+    <worker name="Garet B">
+      <hours>18</hours>
+      <total_seller>5400</total_seller>
+    </worker>
+    <worker name="Messi L">
+      <hours>30</hours>
+      <total_seller>3000</total_seller>
+    </worker>
+  </project>
+  <project name="Project2">
+    <worker name="Messi L">
+      <hours>10</hours>
+      <total_seller>1000</total_seller>
+    </worker>
+  </project>
+</forTaskB>

@@ -1,0 +1,12 @@
+﻿<practics>
+	<practic>
+		<id>1</id>
+		<car>Mazda</car>
+		<point>60</point>
+	</practic>
+	<practic>
+		<id>2</id>
+		<car>Scoda</car>
+		<point>40</point>
+	</practic>
+</practics>

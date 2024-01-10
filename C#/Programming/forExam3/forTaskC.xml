@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<taskC>
+  <platform name="platform1">
+    <total_size>5800</total_size>
+  </platform>
+  <platform name="platform2">
+    <total_size>8600</total_size>
+  </platform>
+</taskC>

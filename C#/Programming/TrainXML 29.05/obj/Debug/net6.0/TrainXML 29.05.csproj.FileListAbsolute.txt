@@ -1,0 +1,15 @@
+D:\C#\Programming\TrainXML 29.05\bin\Debug\net6.0\TrainXML 29.05.exe
+D:\C#\Programming\TrainXML 29.05\bin\Debug\net6.0\TrainXML 29.05.deps.json
+D:\C#\Programming\TrainXML 29.05\bin\Debug\net6.0\TrainXML 29.05.runtimeconfig.json
+D:\C#\Programming\TrainXML 29.05\bin\Debug\net6.0\TrainXML 29.05.dll
+D:\C#\Programming\TrainXML 29.05\bin\Debug\net6.0\TrainXML 29.05.pdb
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.csproj.AssemblyReference.cache
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.AssemblyInfoInputs.cache
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.AssemblyInfo.cs
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.csproj.CoreCompileInputs.cache
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.dll
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\refint\TrainXML 29.05.dll
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.pdb
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\TrainXML 29.05.genruntimeconfig.cache
+D:\C#\Programming\TrainXML 29.05\obj\Debug\net6.0\ref\TrainXML 29.05.dll

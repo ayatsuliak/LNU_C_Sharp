@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<taskA>
+  <results>
+    <id>2</id>
+    <user>benzema9</user>
+    <date>2023-06-12T09:00:00</date>
+    <result>false</result>
+  </results>
+  <results>
+    <id>1</id>
+    <user>messi10</user>
+    <date>2023-06-12T09:00:00</date>
+    <result>true</result>
+  </results>
+  <results>
+    <id>4</id>
+    <user>messi10</user>
+    <date>2023-06-12T09:00:00</date>
+    <result>false</result>
+  </results>
+  <results>
+    <id>5</id>
+    <user>messi10</user>
+    <date>2023-06-12T09:00:00</date>
+    <result>true</result>
+  </results>
+  <results>
+    <id>3</id>
+    <user>ronaldo7</user>
+    <date>2023-06-12T09:00:00</date>
+    <result>true</result>
+  </results>
+</taskA>

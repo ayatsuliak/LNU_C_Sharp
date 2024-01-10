@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Tasks>
+  <Task>
+    <Number>1</Number>
+    <Name>LINQ</Name>
+    <Date>2023.04.27</Date>
+  </Task>
+  <Task>
+    <Number>2</Number>
+    <Name>XML</Name>
+    <Date>2023.04.28</Date>
+  </Task>
+  <Task>
+    <Number>3</Number>
+    <Name>Collection</Name>
+    <Date>2023.04.29</Date>
+  </Task>
+</Tasks>

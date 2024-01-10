@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<taskB>
+  <person name="Benzema">
+    <category>B</category>
+    <years>4</years>
+    <points>80</points>
+  </person>
+  <person name="Messi">
+    <category>B</category>
+    <years>2</years>
+    <points>100</points>
+  </person>
+  <person name="Ronaldo">
+    <category>C</category>
+    <years>2</years>
+    <points>120</points>
+  </person>
+</taskB>

@@ -1,0 +1,15 @@
+D:\Стартовий С#\ConsoleApp1\Recurs\bin\Debug\net6.0\Recurs.exe
+D:\Стартовий С#\ConsoleApp1\Recurs\bin\Debug\net6.0\Recurs.deps.json
+D:\Стартовий С#\ConsoleApp1\Recurs\bin\Debug\net6.0\Recurs.runtimeconfig.json
+D:\Стартовий С#\ConsoleApp1\Recurs\bin\Debug\net6.0\Recurs.dll
+D:\Стартовий С#\ConsoleApp1\Recurs\bin\Debug\net6.0\Recurs.pdb
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.csproj.AssemblyReference.cache
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.AssemblyInfoInputs.cache
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.AssemblyInfo.cs
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.csproj.CoreCompileInputs.cache
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.dll
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\refint\Recurs.dll
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.pdb
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\Recurs.genruntimeconfig.cache
+D:\Стартовий С#\ConsoleApp1\Recurs\obj\Debug\net6.0\ref\Recurs.dll

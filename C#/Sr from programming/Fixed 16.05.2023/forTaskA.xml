@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <discipline name="Programming">
+    <teacher name="Roben P">
+      <group name="PMI21">
+        <student name="Benzema K">
+          <score>60</score>
+        </student>
+        <student name="Lionel M">
+          <score>88</score>
+        </student>
+      </group>
+      <group name="PMI22">
+        <student name="Ronaldo C">
+          <score>45</score>
+        </student>
+      </group>
+    </teacher>
+  </discipline>
+  <discipline name="TA">
+    <teacher name="Gullid P">
+      <group name="PMI21">
+        <student name="Benzema K">
+          <score>68</score>
+        </student>
+      </group>
+      <group name="PMI22">
+        <student name="Ronaldo C">
+          <score>66</score>
+        </student>
+      </group>
+    </teacher>
+  </discipline>
+</TaskA>

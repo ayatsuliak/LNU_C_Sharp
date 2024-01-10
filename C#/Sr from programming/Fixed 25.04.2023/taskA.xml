@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Groups>
+  <Group>
+    <Name>AMI21</Name>
+    <Student>
+      <FullName>Benzema K</FullName>
+      <Result>
+        <TaskNumber>3</TaskNumber>
+        <Topic>Collection</Topic>
+        <Points>100</Points>
+      </Result>
+    </Student>
+    <Student>
+      <FullName>Messi L</FullName>
+      <Result>
+        <TaskNumber>2</TaskNumber>
+        <Topic>XML</Topic>
+        <Points>95</Points>
+      </Result>
+      <Result>
+        <TaskNumber>4</TaskNumber>
+        <Topic>Collection</Topic>
+        <Points>50</Points>
+      </Result>
+      <Result>
+        <TaskNumber>3</TaskNumber>
+        <Topic>Collection</Topic>
+        <Points>90</Points>
+      </Result>
+    </Student>
+  </Group>
+  <Group>
+    <Name>AMI22</Name>
+    <Student>
+      <FullName>Bale G</FullName>
+      <Result>
+        <TaskNumber>1</TaskNumber>
+        <Topic>LINQ</Topic>
+        <Points>66</Points>
+      </Result>
+    </Student>
+  </Group>
+</Groups>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <Procedure>
+    <ProcedureName>Procedure1</ProcedureName>
+    <Count>1</Count>
+    <Total>150</Total>
+  </Procedure>
+  <Procedure>
+    <ProcedureName>Procedure2</ProcedureName>
+    <Count>2</Count>
+    <Total>200</Total>
+  </Procedure>
+</TaskB>

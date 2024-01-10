@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fine_passanger>
+  <fine>
+    <date>2023-05-22T12:34:00</date>
+    <number>2223</number>
+    <speed>60</speed>
+  </fine>
+</fine_passanger>

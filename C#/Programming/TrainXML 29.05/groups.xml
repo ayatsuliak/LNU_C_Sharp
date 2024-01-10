@@ -1,0 +1,12 @@
+﻿<groups>
+	<group>
+		<id>1</id>
+		<name>name1</name>
+		<coach_id>1</coach_id>
+	</group>
+	<group>
+		<id>2</id>
+		<name>name2</name>
+		<coach_id>2</coach_id>
+	</group>
+</groups>

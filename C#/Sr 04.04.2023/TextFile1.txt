@@ -1,0 +1,8 @@
+Vehicle,Tesla,456,4,1900
+Vehicle,BMW,300,4,1700
+Truck,MAN,800,6,12000,4500
+Truck,Volvo,400,6,3000,5000
+Truck,Opel,800,7,3000,5000
+Car,Honda,200,4,1200,5
+Car,Honda,260,4,1250,5
+Car,Toyota,150,4,1000,4

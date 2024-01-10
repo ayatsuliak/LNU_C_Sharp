@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Root>
+  <Gr Number="AMI21">
+    <Student>
+      <LastName>Lionel Messi</LastName>
+      <Points>95</Points>
+      <Theme>XML</Theme>
+    </Student>
+    <Student>
+      <LastName>Karim Benzema</LastName>
+      <Points>100</Points>
+      <Theme>Collection</Theme>
+    </Student>
+  </Gr>
+  <Gr Number="AMI22">
+    <Student>
+      <LastName>Garet Bale</LastName>
+      <Points>66</Points>
+      <Theme>LINQ</Theme>
+    </Student>
+  </Gr>
+</Root>

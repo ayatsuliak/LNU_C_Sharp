@@ -1,0 +1,15 @@
+D:\C#\Programming\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.exe
+D:\C#\Programming\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.deps.json
+D:\C#\Programming\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.runtimeconfig.json
+D:\C#\Programming\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.dll
+D:\C#\Programming\FileStreamDemo\bin\Debug\net6.0\FileStreamDemo.pdb
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.csproj.AssemblyReference.cache
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.AssemblyInfoInputs.cache
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.AssemblyInfo.cs
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.csproj.CoreCompileInputs.cache
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.dll
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\refint\FileStreamDemo.dll
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.pdb
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\FileStreamDemo.genruntimeconfig.cache
+D:\C#\Programming\FileStreamDemo\obj\Debug\net6.0\ref\FileStreamDemo.dll

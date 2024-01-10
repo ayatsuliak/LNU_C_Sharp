@@ -1,0 +1,15 @@
+D:\C#\Programming\XML\bin\Debug\net6.0\XML.exe
+D:\C#\Programming\XML\bin\Debug\net6.0\XML.deps.json
+D:\C#\Programming\XML\bin\Debug\net6.0\XML.runtimeconfig.json
+D:\C#\Programming\XML\bin\Debug\net6.0\XML.dll
+D:\C#\Programming\XML\bin\Debug\net6.0\XML.pdb
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.csproj.AssemblyReference.cache
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.AssemblyInfoInputs.cache
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.AssemblyInfo.cs
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.csproj.CoreCompileInputs.cache
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.dll
+D:\C#\Programming\XML\obj\Debug\net6.0\refint\XML.dll
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.pdb
+D:\C#\Programming\XML\obj\Debug\net6.0\XML.genruntimeconfig.cache
+D:\C#\Programming\XML\obj\Debug\net6.0\ref\XML.dll

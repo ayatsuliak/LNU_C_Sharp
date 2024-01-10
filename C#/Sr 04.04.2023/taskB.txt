@@ -1,0 +1,15 @@
+BMW
+Makr: BMW | Power: 300 | Number of wheels: 4 | Weight: 1700
+Honda
+Makr: Honda | Power: 260 | Number of wheels: 4 | Weight: 1250 | Seating: 5
+Makr: Honda | Power: 200 | Number of wheels: 4 | Weight: 1200 | Seating: 5
+MAN
+Makr: MAN | Power: 800 | Number of wheels: 6 | Weight: 12000 | Carrying capacity: 4500
+Opel
+Makr: Opel | Power: 800 | Number of wheels: 7 | Weight: 3000 | Carrying capacity: 5000
+Tesla
+Makr: Tesla | Power: 456 | Number of wheels: 4 | Weight: 1900
+Toyota
+Makr: Toyota | Power: 150 | Number of wheels: 4 | Weight: 1000 | Seating: 4
+Volvo
+Makr: Volvo | Power: 400 | Number of wheels: 6 | Weight: 3000 | Carrying capacity: 5000

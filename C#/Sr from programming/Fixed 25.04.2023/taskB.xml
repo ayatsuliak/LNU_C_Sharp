@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Results>
+  <Group Name="AMI21">
+    <Task Name="Collection">
+      <Student>
+        <Surname>Benzema K</Surname>
+        <Points>100</Points>
+      </Student>
+      <Student>
+        <Surname>Messi L</Surname>
+        <Points>50</Points>
+      </Student>
+      <Student>
+        <Surname>Messi L</Surname>
+        <Points>90</Points>
+      </Student>
+    </Task>
+  </Group>
+  <Group Name="AMI22">
+    <Task Name="LINQ">
+      <Student>
+        <Surname>Bale G</Surname>
+        <Points>66</Points>
+      </Student>
+    </Task>
+  </Group>
+  <Group Name="AMI21">
+    <Task Name="XML">
+      <Student>
+        <Surname>Messi L</Surname>
+        <Points>95</Points>
+      </Student>
+    </Task>
+  </Group>
+</Results>

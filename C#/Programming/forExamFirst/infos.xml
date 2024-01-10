@@ -1,0 +1,20 @@
+﻿<infos>
+	<info>
+		<il_id>1</il_id>
+		<date>2022.04.11</date>
+		<teo_id>2</teo_id>
+		<prac_id>1</prac_id>
+	</info>
+	<info>
+		<il_id>2</il_id>
+		<date>2021.11.11</date>
+		<teo_id>1</teo_id>
+		<prac_id>1</prac_id>
+	</info>
+	<info>
+		<il_id>3</il_id>
+		<date>2020.04.17</date>
+		<teo_id>2</teo_id>
+		<prac_id>2</prac_id>
+	</info>
+</infos>

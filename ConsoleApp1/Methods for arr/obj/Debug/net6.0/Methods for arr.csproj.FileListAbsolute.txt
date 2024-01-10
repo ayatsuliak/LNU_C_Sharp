@@ -1,0 +1,15 @@
+D:\Стартовий С#\ConsoleApp1\Methods for arr\bin\Debug\net6.0\Methods for arr.exe
+D:\Стартовий С#\ConsoleApp1\Methods for arr\bin\Debug\net6.0\Methods for arr.deps.json
+D:\Стартовий С#\ConsoleApp1\Methods for arr\bin\Debug\net6.0\Methods for arr.runtimeconfig.json
+D:\Стартовий С#\ConsoleApp1\Methods for arr\bin\Debug\net6.0\Methods for arr.dll
+D:\Стартовий С#\ConsoleApp1\Methods for arr\bin\Debug\net6.0\Methods for arr.pdb
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.csproj.AssemblyReference.cache
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.AssemblyInfoInputs.cache
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.AssemblyInfo.cs
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.csproj.CoreCompileInputs.cache
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.dll
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\refint\Methods for arr.dll
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.pdb
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\Methods for arr.genruntimeconfig.cache
+D:\Стартовий С#\ConsoleApp1\Methods for arr\obj\Debug\net6.0\ref\Methods for arr.dll

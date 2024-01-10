@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<goods>
+  <good>
+    <name>Toy</name>
+    <count>1</count>
+    <price>15</price>
+  </good>
+  <good>
+    <name>Food</name>
+    <count>100</count>
+    <price>148</price>
+  </good>
+</goods>

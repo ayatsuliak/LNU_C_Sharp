@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskB>
+  <project project="Project1">
+    <surname surname="Messi L">
+      <hours>20</hours>
+      <totalSeller>2000</totalSeller>
+    </surname>
+    <surname surname="Garet B">
+      <hours>16</hours>
+      <hours>16</hours>
+      <totalSeller>2400</totalSeller>
+      <totalSeller>2400</totalSeller>
+    </surname>
+  </project>
+  <project project="Project2">
+    <surname surname="Messi L">
+      <hours>10</hours>
+      <totalSeller>1000</totalSeller>
+    </surname>
+  </project>
+</TaskB>

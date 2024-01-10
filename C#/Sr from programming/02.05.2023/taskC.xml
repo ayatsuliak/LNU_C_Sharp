@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskC>
+  <Category>
+    <Name>Technology</Name>
+    <Operations>
+      <Operation>&lt;OperationName&gt;Clean PC&lt;/OperationName&gt;: 1</Operation>
+    </Operations>
+  </Category>
+</TaskC>

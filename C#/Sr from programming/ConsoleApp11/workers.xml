@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<workers>
+	<worker>
+		<id>1</id>
+		<surname>Messi</surname>
+		<name>Lionel</name>
+		<unit>Unit1</unit>
+		<position>2</position>
+	</worker>
+	<worker>
+		<id>2</id>
+		<surname>Ronaldo</surname>
+		<name>Cristiano</name>
+		<unit>Unit2</unit>
+		<position>3</position>
+	</worker>
+	<worker>
+		<id>3</id>
+		<surname>Garet</surname>
+		<name>Bale</name>
+		<unit>Unit1</unit>
+		<position>1</position>
+	</worker>
+</workers>

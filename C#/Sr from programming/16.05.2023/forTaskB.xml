@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<results>
+  <group>
+    <name>PMI21</name>
+    <students>
+      <student>
+        <name>Benzema K</name>
+        <disciplines />
+      </student>
+    </students>
+  </group>
+  <group>
+    <name>PMI21</name>
+    <students>
+      <student>
+        <name>Lionel M</name>
+        <disciplines />
+      </student>
+    </students>
+  </group>
+  <group>
+    <name>PMI22</name>
+    <students>
+      <student>
+        <name>Ronaldo C</name>
+        <disciplines />
+      </student>
+    </students>
+  </group>
+</results>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Receipts>
+	<Receipt>
+		<CategoryId>2</CategoryId>
+		<OperationId>2</OperationId>
+		<ReleaseDate>2022.05.29</ReleaseDate>
+		<Date>2023.04.18</Date>
+	</Receipt>
+	<Receipt>
+		<CategoryId>3</CategoryId>
+		<OperationId>1</OperationId>
+		<ReleaseDate>2023.05.20</ReleaseDate>
+		<Date>2023.07.29</Date>
+	</Receipt>
+</Receipts>

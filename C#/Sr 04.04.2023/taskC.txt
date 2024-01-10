@@ -1,0 +1,2 @@
+Makr: MAN | Power: 800 | Number of wheels: 6 | Weight: 12000 | Carrying capacity: 4500
+Makr: Opel | Power: 800 | Number of wheels: 7 | Weight: 3000 | Carrying capacity: 5000

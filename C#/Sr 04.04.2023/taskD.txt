@@ -1,0 +1,2 @@
+Makr: Honda | Power: 200 | Number of wheels: 4 | Weight: 1200 | Seating: 5
+Makr: Honda | Power: 260 | Number of wheels: 4 | Weight: 1250 | Seating: 5

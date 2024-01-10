@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TaskA>
+  <project project="Project1">
+    <surname surname="Messi L">
+      <hours>20</hours>
+    </surname>
+    <surname surname="Garet B">
+      <hours>16</hours>
+      <hours>16</hours>
+    </surname>
+  </project>
+  <project project="Project2">
+    <surname surname="Messi L">
+      <hours>10</hours>
+    </surname>
+  </project>
+</TaskA>

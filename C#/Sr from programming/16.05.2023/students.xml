@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+	<student>
+		<student_id>1</student_id>
+		<last_name>Lionel</last_name>
+		<first_name>Messi</first_name>
+		<group>PMI21</group>
+	</student>
+	<student>
+		<student_id>3</student_id>
+		<last_name>Benzema</last_name>
+		<first_name>Karim</first_name>
+		<group>PMI21</group>
+	</student>
+	<student>
+		<student_id>2</student_id>
+		<last_name>Ronaldo</last_name>
+		<first_name>Cristiano</first_name>
+		<group>PMI22</group>
+	</student>
+</students>

@@ -1,0 +1,12 @@
+﻿<categories>
+	<category>
+		<id>1</id>
+		<name>category1</name>
+		<location>local</location>
+	</category>
+	<category>
+		<id>2</id>
+		<name>category2</name>
+		<location>outside</location>
+	</category>
+</categories>
